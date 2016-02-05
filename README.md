@@ -2,28 +2,28 @@
 
 # Rules for Game
 Hey Guys here is the rules and how to  play the wearwolf game,  
-http://www.werewolfonlinex.com/about.html
+[http://www.werewolfonlinex.com/about.html](Wear wolf game play)
 
 feel free to make adjustments in your version of the game
 
 #Requirments
-Wifeframes
-User stories
-ERD
+* Wifeframes
+* User stories
+* ERD
 
 Tech stack
-Node 
-Express
-Mongo/Mongoose
+* Node 
+* Express
+* Mongo/Mongoose
 
 
 
 
-submittion:
-The game must be playable
-You must host your app on heroku
-you must have a github repo for reviewing of your code
+**submittion:**
+* The game must be playable
+* You must host your app on heroku
+* you must have a github repo for reviewing of your code
 
-Bonus points for:
-Test scripts
-A video demo of your app working
+**Bonus points for:**
+* Test scripts
+* A video demo of your app working
