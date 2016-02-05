@@ -1,7 +1,7 @@
-# Wearwolf Game
+# Werewolf Game
 
 # Rules for Game
-Hey Guys here is the rules and how to  play the wearwolf game,  
+Hey Guys here is the rules and how to  play the werewolf game,  
 http://www.werewolfonlinex.com/about.html
 
 feel free to make adjustments in your version of the game
