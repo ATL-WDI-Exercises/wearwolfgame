@@ -2,7 +2,7 @@
 
 # Rules for Game
 Hey Guys here is the rules and how to  play the wearwolf game,  
-[http://www.werewolfonlinex.com/about.html](Wear wolf game play)
+http://www.werewolfonlinex.com/about.html
 
 feel free to make adjustments in your version of the game
 
